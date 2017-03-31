@@ -45,7 +45,7 @@ mydouble sigmaImpApprox(const mydouble &Cm,
                         const mydouble &q,
                         const mydouble &r,
                         const mydouble &S0,
-                        const mydouble T){
+                        const mydouble &T){
     
     //*****************************************************
     //* Input:                                            *
